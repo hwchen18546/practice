@@ -5,7 +5,6 @@
 typedef struct node
 {
     int data;
-    int num;
     struct node *next;
 }node;
 
